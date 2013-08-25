@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4706
+
+Work with several matchadd() matches at once.  The default highlights long lines.
+For more, see:
+https://github.com/dirkwallenstein/vim-excess-lines
